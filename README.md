@@ -2,11 +2,13 @@
 
 
 ## 👨🏻‍💻 About Me:
+<img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="290px" align="right" />
+
 <h3 >I'm a Frontend Web Developer. </h3>
 
 - 🙋‍♂️ All about me is at **[My Portfolio](https://portfolio-moustafabahaa2060-gmailcom.vercel.app/)**
 
-- 📃 You can download my Resume/CV [Moustafa (1).pdf](https://github.com/Moustafa-Bahaa/ecommerco-json-server/files/12147338/Moustafa.1.pdf)
+- 📃 You can download my Resume/CV [Moustafa Bahaa.pdf](https://github.com/Moustafa-Bahaa/ecommerco-json-server/files/12147338/Moustafa.1.pdf)
 
 - 📫 How to reach me **moustafabahaa2060@gmail.com**
 
@@ -15,11 +17,11 @@
 <a href="https://linkedin.com/in/moustafa-bahaa-47051b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moustafa-bahaa-47051b235" height="30" width="40" /></a>
 
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 
-
-
+<br/>
+<br/>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
