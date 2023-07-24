@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 About Me:
 <img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="290px" align="right" />
 
-<h3 >I'm a Frontend Web Developer. </h3>
+   <h3 >  Frontend Developer. </h3>
 
 - 🙋‍♂️ All about me is at **[My Portfolio](https://portfolio-moustafabahaa2060-gmailcom.vercel.app/)**
 
